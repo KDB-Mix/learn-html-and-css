@@ -11,3 +11,7 @@ body {
     padding: 20px;
     display: flex;
 }
+
+.text-container{
+    margin-left: 20px;
+}

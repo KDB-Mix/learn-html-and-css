@@ -1,0 +1,11 @@
+.pricing{
+    display: flex;
+}
+
+.pricing-individuals{
+    margin-right: 15px;
+}
+
+.pricing-enterprise{
+    margin-left: 15px;
+}
