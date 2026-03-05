@@ -1,3 +1,17 @@
+body {
+    font-family: "Happy Monkey", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+body{
+    text-align: center;
+}
+#avatar{
+    width: 150px;
+    border: None;
+    border-radius: 100px;
+}
 /*
 Challenge:
 Style the app according to the provided design.

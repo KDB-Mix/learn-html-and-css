@@ -46,4 +46,21 @@ Challenge:
 
 PS: the image should be 400px wide.
 */
+.gift-section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.gift-img{
+    width: 400px;
+    border-radius: 10px;
+    border: 5px solid white;
+}
+
+.gift-title{
+    margin: 50px 0 7px 0;
+}
+.gift-hint{
+    margin: 0 0 15px 0;
+}
 

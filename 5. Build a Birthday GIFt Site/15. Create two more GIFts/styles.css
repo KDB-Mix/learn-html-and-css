@@ -67,6 +67,15 @@ h1, h2, h3, h4, p {
 }
 
 
+#genius-gif:hover {
+    background-image: url("images/genius.gif");
+}
+
+#badass-gif:hover {
+    background-image: url("images/badass.gif");
+}
+
+
 /*
 Challenge:
 Create the "genius" and "badass" GIFt sections.

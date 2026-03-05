@@ -13,6 +13,27 @@ body {
     text-align: center;
 }
 
-img {
-    width: 100px;
+/*img {*/
+/*    width: 100px;*/
+/*}*/
+
+.content-images{
+    width: 150px;
+    height: 150px;
+    border: 2px solid black;
+    border-radius: 50%;
+}
+
+#hero{
+    background-image: url("https://media.gettyimages.com/id/2189596464/photo/damascus-skyline-illuminating-the-syrian-night.jpg?s=612x612&w=gi&k=20&c=mLH-TClUyRJ7YSQftB2g768_ko53SGZ7O0EHRuvuzBs=");
+    background-size: cover;
+    /*height: 500px;*/
+    padding: 20px;
+}
+#main{
+    display: inline-block;
+    padding: 20px 30px;
+    margin: 20px;
+    background: lightblue;
+    border-radius: 30px;
 }

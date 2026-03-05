@@ -10,11 +10,18 @@ section.
 PS: your layout will likely be disturbed by the <body> 
 tag's default margin.
 */
+#hero{
+    background-image: url("https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmlyZmY3Nzk5MG5yMnJncms0YTRrbXZidTgwZXVwc2x6MzlsMGN3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PkKzNQjwPy7GvxZbfe/giphy.gif");
+    background-size: cover;
+    padding: 10px 0 30px 0;
+}
+#terms-and-conditions{
+
+}
 
 body {
-    color: #82a5ca;
-    background-image: url("images/galaxy.webp");
-    background-size: cover;
+    margin: 0;
+    color: #b8b8b8;
     text-align: center;
     font-family: 'Orbitron', sans-serif;
 }
@@ -28,7 +35,7 @@ body {
     background: white;
     border: none;
     font-family: 'Orbitron', sans-serif;
-    color: #82a5ca;
+    color: #565656;
     font-weight: 800;
 }
 
